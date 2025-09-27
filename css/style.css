@@ -28,7 +28,7 @@ video {
 /* ----------------- Header ----------------- */
 header {
     height: 95vh;
-    background: url(../img/تنزيل.jpg) center center/cover no-repeat;
+    background: url(./img/تنزيل.jpg) center center/cover no-repeat;
 }
 
 .navbar {
